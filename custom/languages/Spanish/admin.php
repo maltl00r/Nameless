@@ -679,7 +679,7 @@ $language = array(
     // Announcements
     'announcements' => 'Anuncios',
     'new_announcement' => 'Nuevo anuncio',
-    'announcement_info' => 'Create announcements to display a message to specific groups on specific pages of your website.',
+    'announcement_info' => 'Crea anuncios para mostrar un mensaje a grupos específicos en páginas específicas de su sitio web.',
     'creating_announcement' => 'Creando un anuncio',
     'editing_announcement' => 'Editando un anuncio',
     'creating_announcement_success' => 'Anuncio creado con éxito.',
@@ -700,7 +700,7 @@ $language = array(
     'message_required' => 'Mensaje requerido',
     'background_colour_required' => 'Se requiere color de fondo',
     'text_colour_required' => 'Se requiere color de texto',
-    'no_announcements' => 'No announcements have been made yet.',
+    'no_announcements' => 'No se han realizado anuncios todavía.',
 
     // Discord
     'discord' => 'Discord',
@@ -719,9 +719,9 @@ $language = array(
     'discord_cannot_interact' => 'El bot Nameless Link no puede interactuar con este usuario en Discord. ¿Su rol es más alto que el rol de Nameless Link?',
 
     // Discord bot Errors
-    'discord_bot_error_badparameter' => 'Invalid request body.',
-    'discord_bot_error_error' => 'An internal bot error occured.',
-    'discord_bot_error_invguild' => 'Provided Guild ID is invalid, or the bot is not in it.',
+    'discord_bot_error_badparameter' => 'Cuerpo de solicitud inválido.',
+    'discord_bot_error_error' => 'Se produjo un error interno del robot.',
+    'discord_bot_error_invguild' => 'La ID del gremio es inválida, o el bot no está en ella.',
     'discord_bot_error_invuser' => 'Provided User ID is invalid, or is not in specified Guild.',
     'discord_bot_error_notlinked' => 'The bot is not linked to this website for provided Guild ID.',
     'discord_bot_error_unauthorized' => 'Website API key is invalid',
